@@ -13,10 +13,8 @@ def dividing(a, b):
 def squaring(a):
     return float(a) ** 2
 
-
 def square_rooting(a):
     return float(a) ** 0.5
-
 
 class Calculator:
     result = 0
