@@ -1,3 +1,9 @@
+###################
+# Dejing Kong
+# IS606 project
+###################
+
+
 def addition(a, b):
     return float(a) + float(b)
 
