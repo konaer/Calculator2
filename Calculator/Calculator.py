@@ -3,24 +3,14 @@
 # IS606 project2
 ###################
 
+from Calculator.Subtraction import subtraction
+from Calculator.Addition import addition
+from Calculator.Multiplication import multiplication
+from Calculator.Division import division
+from Calculator.Square import squaring
+from Calculator.SquareRoot import squarerooting
 
-def addition(a, b):
-    return float(a) + float(b)
 
-def subtraction(a, b):
-    return float(a) - float(b)
-
-def multiplication(a, b):
-    return float(a) * float(b)
-
-def dividing(a, b):
-    return float(a) / float(b)
-
-def squaring(a):
-    return float(a) ** 2
-
-def square_rooting(a):
-    return float(a) ** 0.5
 
 class Calculator:
     result = 0
