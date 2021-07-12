@@ -1,6 +1,6 @@
 ###################
 # Dejing Kong
-# IS606 project
+# IS606 project2
 ###################
 
 
