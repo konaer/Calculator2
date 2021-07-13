@@ -1,4 +1,4 @@
-# Calculator
+# Calculator2
 project2 IS601
 
 [![Build Status](https://travis-ci.com/konaer/Calculator2.svg?branch=master)](https://travis-ci.com/konaer/Calculator2)
