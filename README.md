@@ -1,6 +1,8 @@
 # Calculator
 project2 IS601
 
+[![Build Status](https://www.travis-ci.com/konaer/Calculator2.svg?branch=main)](https://www.travis-ci.com/konaer/Calculator2)
+
 [Sussefully unit testing runing screen shot](https://github.com/konaer/images/blob/main/test1.png)
 
 In this project, running tasks include:
