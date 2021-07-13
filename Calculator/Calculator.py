@@ -10,8 +10,6 @@ from Calculator.Division import division
 from Calculator.Square import squaring
 from Calculator.SquareRoot import squarerooting
 
-
-
 class Calculator:
     result = 0
     data = []
@@ -32,7 +30,7 @@ class Calculator:
         return self.result
 
     def divide(self, a, b):
-        self.result = round(dividing(a, b), 9)
+        self.result = round(division(a, b), 9)
         return self.result
 
     def square(self, a):
@@ -40,5 +38,5 @@ class Calculator:
         return self.result
 
     def square_root(self, a):
-        self.result = round(square_rooting(a), 8)
+        self.result = round(squarerooting(a), 8)
         return self.result
