@@ -1,6 +1,5 @@
 import unittest
 import numpy as np
-from scipy import stats
 from Statistics.Statistics import Statistics
 from RandomNumberGenerator.NRandomNumbers import n_ramdom_int_number
 
