@@ -1,7 +1,7 @@
 import unittest
 import numpy as np
 from Statistics.Statistics import Statistics
-from RandomNumberGenerator.NRandomNumbers import n_ramdom_int_number
+from RandomNumberGenerator.RandomNumbersGenerator import n_ramdom_int_number
 
 
 class test(unittest.TestCase):
